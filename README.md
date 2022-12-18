@@ -10,7 +10,7 @@ This is keylogger with a GUI coded in  Python that logs employees keystrokes and
 
 ## Installation
 1. Download the source code from GitHub
-2. Install the required dependencies
+2. Install the required dependencies, a requirements.txt file has been added to github for ease of installation
 3. Run the gui.py file
 
 ## Usage
