@@ -11,7 +11,10 @@ This is keylogger with a GUI coded in  Python that logs employees keystrokes and
 ## Installation
 1. Download the source code from GitHub
 2. Install the required dependencies, a requirements.txt file has been added to github for ease of installation
-3. Run the gui.py file
+3. Download the requirements.txt file.
+3. Open a terminal window and navigate to the directory containing the requirements.txt file.
+4. Run the command `pip install -r requirements.txt` to install the required packages.
+5. 4. Run the gui.py file
 
 ## Usage
 The application has a simple GUI with three buttons: Start Logging, Stop Logging, and Search Logs. 
